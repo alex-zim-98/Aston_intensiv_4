@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next %s</string>
+    <string name="previous">Previous %s</string>
+    <string name="result">Result</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="fragment_name">Fragment: %s</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="name">Name: %s</string>
+    <string name="lastname">Lastname: %s</string>
+    <string name="phone">Phone: %s</string>
+    <string name="your_avatar">Your avatar</string>
+    <string name="your_name">Your Name</string>
+    <string name="left_arrow">Left arrow</string>
+    <string name="your_lastname">Your Lastname</string>
+    <string name="your_phone">Your Phone</string>
+    <string name="save">Save</string>
+</resources>

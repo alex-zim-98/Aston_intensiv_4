@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_blank_fragment">Привет!</string>
+    <string name="next">След. %s</string>
+    <string name="previous">Пред. %s</string>
+    <string name="result">Результат</string>
+    <string name="task_1">Задача 1</string>
+    <string name="task_2">Задача 2</string>
+    <string name="fragment_name">Фрагмент: %s</string>
+    <string name="fragment_a">Фрагмент А</string>
+    <string name="name">Имя: %s</string>
+    <string name="lastname">Фамилия: %s</string>
+    <string name="phone">Телефоне: %s</string>
+    <string name="your_avatar">Ваш Аватар: %s</string>
+    <string name="your_name">Ваше Имя: %s</string>
+    <string name="left_arrow">Лево</string>
+    <string name="your_lastname">Ваша Фамилия</string>
+    <string name="your_phone">Ваш Телефон</string>
+    <string name="save">Сохранить</string>
+</resources>
