@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.aston.myapplication.databinding.ActivityStartBinding
 import com.aston.myapplication.task1.TaskFirstActivity
-import com.aston.myapplication.task2.presentation.UserActivity
+import com.aston.myapplication.task2.presentation.useractivity.UserActivity
 
 class StartActivity : AppCompatActivity() {
     private val viewBinding: ActivityStartBinding by lazy {
